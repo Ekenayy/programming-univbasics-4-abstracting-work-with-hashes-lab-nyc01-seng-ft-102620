@@ -4,7 +4,10 @@ def my_hash_creator(key, value)
 end
 
 def read_from_hash(hash, key)
-  
+  if hash[key]
+    puts
+  else 
+    puts 'sorry'
   # return the correct value using the hash and key parameters
 end
 

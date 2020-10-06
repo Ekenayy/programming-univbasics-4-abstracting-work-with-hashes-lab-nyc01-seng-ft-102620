@@ -5,7 +5,7 @@ end
 
 def read_from_hash(hash, key)
   if hash[key]
-    puts
+    puts hash
   else 
     puts 'sorry'
   # return the correct value using the hash and key parameters

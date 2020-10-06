@@ -9,8 +9,9 @@ def read_from_hash(hash, key)
   else 
     puts 'sorry'
   end
-  # return the correct value using the hash and key parameters
 end
+  # return the correct value using the hash and key parameters
+
 
 def update_counting_hash(hash, key)
   # given a hash an a key as parameters, return an updated hash
